@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLib", "CSharpLib\CSharpLib.csproj", "{8AB91BC0-39A8-4E23-A48B-0488F7B4F08E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpLib", "CSharpLib\CSharpLib.csproj", "{42679B57-EF89-4288-9C6D-E073D0C99607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8AB91BC0-39A8-4E23-A48B-0488F7B4F08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8AB91BC0-39A8-4E23-A48B-0488F7B4F08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8AB91BC0-39A8-4E23-A48B-0488F7B4F08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8AB91BC0-39A8-4E23-A48B-0488F7B4F08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42679B57-EF89-4288-9C6D-E073D0C99607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42679B57-EF89-4288-9C6D-E073D0C99607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42679B57-EF89-4288-9C6D-E073D0C99607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42679B57-EF89-4288-9C6D-E073D0C99607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
